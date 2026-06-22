@@ -2,7 +2,7 @@
 name: PACT object change proposal
 about: Use this template when you want to change or correct the dataset
 title: "[PACT] <Title>"
-labels: ''
+labels: change
 assignees: ''
 type: Task
 
