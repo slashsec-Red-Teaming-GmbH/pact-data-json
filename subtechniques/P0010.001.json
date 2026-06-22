@@ -1,0 +1,16 @@
+{
+  "id": "P0010.001",
+  "name": "Exploit Perimeter Controls",
+  "description": "Adversaries may exploit weaknesses in perimeter controls such as gaps in fencing, inoperative sensors, misaligned gates, or schedules that leave boundaries unmonitored. Exploitation uses the control failure rather than direct force against the barrier.",
+  "shortname": "exploit-perimeter-controls",
+  "technique": "P0010",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0010/P0010.001/",
+    "references": []
+  }
+}

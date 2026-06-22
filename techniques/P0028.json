@@ -1,0 +1,25 @@
+{
+  "id": "P0028",
+  "name": "Copy Information",
+  "description": "Adversaries may duplicate information in place without removing the original materials. Copying preserves access to content while leaving source documents, displays, or boards apparently undisturbed.",
+  "shortname": "copy-information",
+  "tactics": [
+    "PT0010"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0010/P0028/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0015"
+    ],
+    "detections": []
+  }
+}

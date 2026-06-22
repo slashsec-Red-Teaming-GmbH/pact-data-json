@@ -1,0 +1,26 @@
+{
+  "id": "P0009",
+  "name": "Bypass Physical Access Controls",
+  "description": "Adversaries may circumvent physical access controls without exploiting a specific design flaw. Bypass methods defeat or avoid locks, doors, windows, and perimeter barriers through force, manipulation, or alternate paths.",
+  "shortname": "bypass-physical-access-controls",
+  "tactics": [
+    "PT0003",
+    "PT0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0009/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0008"
+    ],
+    "detections": []
+  }
+}

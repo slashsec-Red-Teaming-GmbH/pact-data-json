@@ -1,0 +1,16 @@
+{
+  "id": "P0004.002",
+  "name": "Fabricate Victim Vendor ID",
+  "description": "Adversaries may create identification associated with vendors, contractors, or service providers commonly seen at the target facility. Vendor or subcontractor credentials can exploit weaker verification for third-party personnel.",
+  "shortname": "fabricate-victim-vendor-id",
+  "technique": "P0004",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/P0004/P0004.002/",
+    "references": []
+  }
+}

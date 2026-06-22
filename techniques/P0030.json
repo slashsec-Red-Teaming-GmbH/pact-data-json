@@ -1,0 +1,25 @@
+{
+  "id": "P0030",
+  "name": "Plant Surveillance Device",
+  "description": "Adversaries may conceal listening devices, cameras, or other recorders in the target environment to capture audio or video after they leave. Implants can be placed in offices, meeting rooms, cabling paths, or furnishings to collect information without continuous on-site presence.",
+  "shortname": "plant-surveillance-device",
+  "tactics": [
+    "PT0010"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0010/P0030/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0017"
+    ],
+    "detections": []
+  }
+}

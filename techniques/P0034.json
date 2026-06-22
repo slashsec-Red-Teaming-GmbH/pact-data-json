@@ -1,0 +1,23 @@
+{
+  "id": "P0034",
+  "name": "Espionage",
+  "description": "Adversaries may conduct physical operations to obtain sensitive information for an external beneficiary. Espionage objectives include trade secrets, operational plans, credentials, and facility details collected to advantage a competing or hostile organization.",
+  "shortname": "espionage",
+  "tactics": [
+    "PT0012"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0012/P0034/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

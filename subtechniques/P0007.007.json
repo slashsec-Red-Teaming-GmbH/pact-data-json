@@ -1,0 +1,16 @@
+{
+  "id": "P0007.007",
+  "name": "Employ Pretext via Email",
+  "description": "Adversaries may use a prepared cover story in email to staff, contractors, or shared mailboxes to obtain information or assistance without physical presence at the facility. Email pretexts can request layouts, visitor procedures, or organizational details that support planning and later tactics.",
+  "shortname": "employ-pretext-email",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.007/",
+    "references": []
+  }
+}

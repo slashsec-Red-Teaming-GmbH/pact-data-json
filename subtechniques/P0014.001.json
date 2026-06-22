@@ -1,0 +1,16 @@
+{
+  "id": "P0014.001",
+  "name": "Shoulder Surf PIN Entry",
+  "description": "Adversaries may observe personnel entering PINs at doors, gates, or PIN pads to capture access codes without handling credentials directly. Shoulder surfing can occur in queues, at turnstiles, or by positioning near controlled entry points.",
+  "shortname": "shoulder-surf-pin-entry",
+  "technique": "P0014",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0006/P0014/P0014.001/",
+    "references": []
+  }
+}

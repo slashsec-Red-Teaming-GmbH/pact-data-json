@@ -1,0 +1,16 @@
+{
+  "id": "P0024.003",
+  "name": "Disable Alarm Device",
+  "description": "Adversaries may silence or disable audible and visual alarm appliances, panels, or notification paths. Impaired alarm devices delay or prevent staff and responders from learning that a sensor event occurred.",
+  "shortname": "disable-alarm-device",
+  "technique": "P0024",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/P0024/P0024.003/",
+    "references": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P0034.002",
+  "name": "Nation State Espionage",
+  "description": "Adversaries may conduct espionage to benefit a government or state-aligned program. Nation state espionage can target critical infrastructure, defense suppliers, research facilities, and other sites whose physical access or materials support strategic intelligence goals.",
+  "shortname": "nation-state-espionage",
+  "technique": "P0034",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0012/P0034/P0034.002/",
+    "references": []
+  }
+}

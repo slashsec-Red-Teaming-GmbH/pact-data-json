@@ -1,0 +1,16 @@
+{
+  "id": "PT0009",
+  "name": "Defense Impairment",
+  "description": "The adversary is trying to degrade or defeat security controls.\n\nDefense Impairment consists of techniques that interfere with guards, alarms, cameras, sensors, or response procedures so defenders detect or respond less effectively. Examples include tampering with devices, creating false alarms, and blocking lines of sight or communication.",
+  "shortname": "defense-impairment",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/",
+    "references": [],
+    "mitre_id": "TA0112"
+  }
+}

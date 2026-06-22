@@ -1,0 +1,16 @@
+{
+  "id": "PT0005",
+  "name": "Privilege Escalation",
+  "description": "The adversary is trying to gain higher levels of physical access.\n\nPrivilege Escalation consists of techniques for moving from lower-trust areas or roles into restricted zones, unescorted access, or sensitive spaces. Examples include abusing escort procedures, exploiting misconfigured access groups, and leveraging stolen or forged credentials with broader permissions.",
+  "shortname": "privilege-escalation",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0005/",
+    "references": [],
+    "mitre_id": "TA0004"
+  }
+}

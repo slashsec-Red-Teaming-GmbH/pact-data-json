@@ -1,0 +1,24 @@
+{
+  "id": "PM0010",
+  "name": "Security Patrol Program",
+  "description": "Schedule guard or staff patrols of low-traffic areas, stairwells, storage zones, and back-of-house paths to detect hiding and unescorted movement. Include routine perimeter and opening checks for propped doors, unsecured windows, disabled sensors on openings, and other gaps that allow entry without credentials.",
+  "shortname": "security-patrol-program",
+  "techniques": [
+    "P0010",
+    "P0013",
+    "P0021"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0010/"
+  },
+  "assets": [
+    "PA0007",
+    "PA0008"
+  ]
+}

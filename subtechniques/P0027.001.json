@@ -1,0 +1,16 @@
+{
+  "id": "P0027.001",
+  "name": "Steal Endpoint Device",
+  "description": "Adversaries may take laptops, desktops, tablets, or other endpoint devices from workspaces, labs, or unsecured areas. Endpoint theft can expose local storage, cached credentials, and peripheral tokens left with the device.",
+  "shortname": "steal-endpoint-device",
+  "technique": "P0027",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/P0027/P0027.001/",
+    "references": []
+  }
+}

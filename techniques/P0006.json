@@ -1,0 +1,31 @@
+{
+  "id": "P0006",
+  "name": "Tailgate",
+  "description": "Adversaries may follow authorized personnel through controlled entry points without presenting their own credentials. Tailgating exploits courtesy holds, distraction, or high-traffic periods when doors and turnstiles remain open.",
+  "shortname": "tailgate",
+  "tactics": [
+    "PT0003",
+    "PT0005"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0006/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0001",
+      "PM0003",
+      "PM0004",
+      "PM0005"
+    ],
+    "detections": [
+      "PET0001"
+    ]
+  }
+}

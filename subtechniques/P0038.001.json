@@ -1,0 +1,16 @@
+{
+  "id": "P0038.001",
+  "name": "Implant Covert Capture Device",
+  "description": "Adversaries may install concealed hardware inside or behind card readers and PIN pads to intercept credential data passed to access controllers. Implants may sit inline on reader wiring or within the enclosure, capturing badge reads and PIN entry for later use while leaving the device outwardly functional.",
+  "shortname": "implant-covert-capture-device",
+  "technique": "P0038",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0038/P0038.001/",
+    "references": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "PM0022",
+  "name": "Facility Operational Security",
+  "description": "Limit public exposure of facility layout, schedules, and security measures; train staff to report suspicious observation and photography near sensitive areas.",
+  "shortname": "facility-operational-security",
+  "techniques": [
+    "P0001",
+    "P0002",
+    "P0003",
+    "P0039"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0022/"
+  }
+}

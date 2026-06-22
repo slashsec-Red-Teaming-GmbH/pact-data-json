@@ -1,0 +1,16 @@
+{
+  "id": "P0005.001",
+  "name": "Develop Pretext Story",
+  "description": "Adversaries may craft a plausible narrative explaining why they are on site, who they represent, and what work they are performing. The story is tailored to facility roles, schedules, and observed security practices.",
+  "shortname": "develop-pretext-story",
+  "technique": "P0005",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/P0005/P0005.001/",
+    "references": []
+  }
+}

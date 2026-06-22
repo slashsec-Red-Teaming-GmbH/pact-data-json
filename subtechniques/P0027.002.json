@@ -1,0 +1,16 @@
+{
+  "id": "P0027.002",
+  "name": "Steal Removable Media",
+  "description": "Adversaries may remove USB drives, external hard disks, backup tapes, or other portable storage found on site. Removable media may hold sensitive files, keys, or images copied from internal systems.",
+  "shortname": "steal-removable-media",
+  "technique": "P0027",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/P0027/P0027.002/",
+    "references": []
+  }
+}

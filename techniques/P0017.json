@@ -1,0 +1,28 @@
+{
+  "id": "P0017",
+  "name": "Cross Security Zone",
+  "description": "Adversaries may move between defined security zones within or across facilities after initial access. Zone crossings exploit gaps between perimeter and interior controls, inconsistent badge enforcement, or transition areas such as lobbies and mantraps.",
+  "shortname": "cross-security-zone",
+  "tactics": [
+    "PT0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0007/P0017/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0018"
+    ],
+    "detections": [
+      "PET0008",
+      "PET0010"
+    ]
+  }
+}

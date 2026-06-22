@@ -1,0 +1,25 @@
+{
+  "id": "P0015",
+  "name": "Forge Key",
+  "description": "Adversaries may create unauthorized copies of mechanical keys or obtain keys cut to match target locks. Forged keys enable entry without triggering electronic access logs when mechanical locks are used alone or as a fallback.",
+  "shortname": "forge-key",
+  "tactics": [
+    "PT0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0006/P0015/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006"
+    ],
+    "detections": []
+  }
+}

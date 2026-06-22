@@ -1,0 +1,22 @@
+{
+  "id": "PM0007",
+  "name": "Anti-Cloning Badge Technology",
+  "description": "Use access credentials with anti-cloning features and readers that validate secure formats rather than accepting duplicated static card data alone.",
+  "shortname": "anti-cloning-badge-technology",
+  "techniques": [
+    "P0016",
+    "P0038"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0007/"
+  },
+  "assets": [
+    "PA0002"
+  ]
+}

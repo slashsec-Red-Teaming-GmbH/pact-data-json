@@ -1,0 +1,26 @@
+{
+  "id": "PM0006",
+  "name": "Credential and Key Management",
+  "description": "Control issuance, storage, revocation, and audit of badges, keys, and PINs; inspect readers and locks for tampering during maintenance cycles.",
+  "shortname": "credential-key-management",
+  "techniques": [
+    "P0008",
+    "P0012",
+    "P0014",
+    "P0015",
+    "P0016",
+    "P0038"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0006/"
+  },
+  "assets": [
+    "PA0006"
+  ]
+}

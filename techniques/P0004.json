@@ -1,0 +1,25 @@
+{
+  "id": "P0004",
+  "name": "Fabricate ID",
+  "description": "Adversaries may create or alter identification credentials to impersonate authorized personnel, contractors, or visitors at a target facility. Fabricated IDs support pretext-based access and reduce scrutiny at checkpoints.",
+  "shortname": "fabricate-id",
+  "tactics": [
+    "PT0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0002/P0004/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0002"
+    ],
+    "detections": []
+  }
+}

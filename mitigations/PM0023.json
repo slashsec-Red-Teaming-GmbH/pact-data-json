@@ -1,0 +1,22 @@
+{
+  "id": "PM0023",
+  "name": "Ongoing Personnel Trust Verification",
+  "description": "Re-verify contractor and vendor access periodically; revoke credentials when engagements end and investigate anomalous repeat presence.",
+  "shortname": "ongoing-personnel-trust-verification",
+  "techniques": [
+    "P0011"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0023/"
+  },
+  "assets": [
+    "PA0005",
+    "PA0006"
+  ]
+}

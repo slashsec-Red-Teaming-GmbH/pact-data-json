@@ -1,0 +1,16 @@
+{
+  "id": "P0007.005",
+  "name": "Wear Cover Dress",
+  "description": "Adversaries may wear clothing, uniforms, PPE, or accessories that match expected roles at the facility during live operations. Cover dress reduces scrutiny compared to out-of-place attire and supports blending with staff, vendors, or visitors.",
+  "shortname": "wear-cover-dress",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.005/",
+    "references": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "PA0011",
+  "name": "IT Asset Inventory Record",
+  "description": "Inventory assignments, custody changes, and status for laptops, removable media, and portable equipment.",
+  "shortname": "it-asset-inventory-record",
+  "data_source": "Asset Management",
+  "mitigations": [
+    "PM0016"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0011/"
+  }
+}

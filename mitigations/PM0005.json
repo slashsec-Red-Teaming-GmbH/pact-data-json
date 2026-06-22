@@ -1,0 +1,21 @@
+{
+  "id": "PM0005",
+  "name": "Mantrap and Interlocking Doors",
+  "description": "Deploy mantraps or interlocking door pairs at high-risk entries so only one door can open at a time and tailgating is harder to execute.",
+  "shortname": "mantrap-interlocking-doors",
+  "techniques": [
+    "P0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0005/"
+  },
+  "assets": [
+    "PA0001"
+  ]
+}

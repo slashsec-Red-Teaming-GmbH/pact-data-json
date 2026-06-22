@@ -1,0 +1,16 @@
+{
+  "id": "P0024.002",
+  "name": "Disable Intrusion Sensor",
+  "description": "Adversaries may disable intrusion detection devices such as motion detectors, door contacts, glass-break sensors, and beam barriers. Tampering or bypassing these sensors reduces alarm generation when adversaries cross protected boundaries.",
+  "shortname": "disable-intrusion-sensor",
+  "technique": "P0024",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/P0024/P0024.002/",
+    "references": []
+  }
+}

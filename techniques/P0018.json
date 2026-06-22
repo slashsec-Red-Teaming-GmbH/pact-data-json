@@ -1,0 +1,25 @@
+{
+  "id": "P0018",
+  "name": "Use Vertical Circulation",
+  "description": "Adversaries may move between floors using stairs, elevators, or other vertical circulation paths. Floor-to-floor movement can bypass zone controls that are enforced only at building entry or on selected levels.",
+  "shortname": "use-vertical-circulation",
+  "tactics": [
+    "PT0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0007/P0018/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0019"
+    ],
+    "detections": []
+  }
+}

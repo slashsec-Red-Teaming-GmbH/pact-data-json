@@ -1,0 +1,28 @@
+{
+  "id": "P0016",
+  "name": "Clone Badge",
+  "description": "Adversaries may duplicate access badges or cards using captured credential data or physical specimens. Cloned badges can grant entry at readers that do not enforce additional verification or detect duplicate serial numbers.",
+  "shortname": "clone-badge",
+  "tactics": [
+    "PT0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0006/P0016/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006",
+      "PM0007"
+    ],
+    "detections": [
+      "PET0005"
+    ]
+  }
+}

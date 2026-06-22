@@ -1,0 +1,16 @@
+{
+  "id": "P0009.001",
+  "name": "Bypass Window",
+  "description": "Adversaries may bypass window-based physical barriers to enter a facility or controlled area. This includes breaking glass, defeating latches, removing panes, or using unsecured or operable windows as entry points.",
+  "shortname": "window-bypass",
+  "technique": "P0009",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0009/P0009.001/",
+    "references": []
+  }
+}

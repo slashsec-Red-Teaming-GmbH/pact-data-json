@@ -1,0 +1,22 @@
+{
+  "id": "PET0005",
+  "name": "Anomalous Badge Reuse",
+  "description": "Correlate badge reads that violate anti-passback, appear at impossible intervals, or repeat across separated readers.",
+  "shortname": "anomalous-badge-reuse",
+  "techniques": [
+    "P0016",
+    "P0038"
+  ],
+  "data_components": [
+    "PA0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0005/"
+  }
+}

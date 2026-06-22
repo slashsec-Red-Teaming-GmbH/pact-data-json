@@ -1,0 +1,22 @@
+{
+  "id": "PM0002",
+  "name": "Visitor and Contractor Verification",
+  "description": "Verify identity and authorization for visitors, vendors, and contractors using badges, sign-in procedures, and callback validation before granting access.",
+  "shortname": "visitor-contractor-verification",
+  "techniques": [
+    "P0004",
+    "P0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0002/"
+  },
+  "assets": [
+    "PA0005"
+  ]
+}

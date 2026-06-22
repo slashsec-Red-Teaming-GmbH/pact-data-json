@@ -1,0 +1,22 @@
+{
+  "id": "PET0003",
+  "name": "Camera Offline or Coverage Loss",
+  "description": "Detect cameras going offline, reporting tamper, or losing expected field of view.",
+  "shortname": "camera-offline-coverage-loss",
+  "techniques": [
+    "P0024",
+    "P0025"
+  ],
+  "data_components": [
+    "PA0003"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0003/"
+  }
+}

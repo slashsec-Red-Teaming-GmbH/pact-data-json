@@ -1,0 +1,23 @@
+{
+  "id": "PM0008",
+  "name": "Physical Access Control Maintenance",
+  "description": "Maintain locks, doors, readers, and barriers on a defined schedule; remove or repair damaged hardware that could be manipulated for covert access.",
+  "shortname": "physical-access-control-maintenance",
+  "techniques": [
+    "P0009",
+    "P0012",
+    "P0038"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0008/"
+  },
+  "assets": [
+    "PA0009"
+  ]
+}

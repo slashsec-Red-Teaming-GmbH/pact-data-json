@@ -1,0 +1,16 @@
+{
+  "id": "P0017.001",
+  "name": "Cross Zone via Internal Door",
+  "description": "Adversaries may pass through interior doors, turnstiles, or mantraps that separate security zones within the same building. This includes using valid credentials, tailgating, or exploiting doors held open during transitions between public and restricted areas.",
+  "shortname": "cross-zone-internal-door",
+  "technique": "P0017",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/P0017/P0017.001/",
+    "references": []
+  }
+}

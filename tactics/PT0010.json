@@ -1,0 +1,16 @@
+{
+  "id": "PT0010",
+  "name": "Collection",
+  "description": "The adversary is trying to gather information or physical items of interest.\n\nCollection consists of techniques for capturing data, documents, media, or assets relevant to the engagement objective. Examples include photography, copying materials, and removing items from secure areas when permitted by access gained in earlier phases.",
+  "shortname": "collection",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/",
+    "references": [],
+    "mitre_id": "TA0009"
+  }
+}

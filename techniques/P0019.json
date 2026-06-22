@@ -1,0 +1,28 @@
+{
+  "id": "P0019",
+  "name": "Use Service Route",
+  "description": "Adversaries may traverse back-of-house paths such as loading docks, utility corridors, mail rooms, and maintenance tunnels to reach areas not visible from public spaces. Service routes often have lighter monitoring or fewer credential checks than main entries.",
+  "shortname": "use-service-route",
+  "tactics": [
+    "PT0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0007/P0019/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0020"
+    ],
+    "detections": [
+      "PET0008",
+      "PET0010"
+    ]
+  }
+}

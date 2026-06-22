@@ -1,0 +1,21 @@
+{
+  "id": "PET0009",
+  "name": "False Alarm Cluster",
+  "description": "Identify bursts of nuisance alarms or manual activations without corroborating sensor or video events.",
+  "shortname": "false-alarm-cluster",
+  "techniques": [
+    "P0026"
+  ],
+  "data_components": [
+    "PA0004"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0009/"
+  }
+}

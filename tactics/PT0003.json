@@ -1,0 +1,16 @@
+{
+  "id": "PT0003",
+  "name": "Initial Access",
+  "description": "The adversary is trying to get into the targeted facility or controlled area.\n\nInitial Access consists of techniques that use entry vectors to gain a foothold in a physical environment. Examples include tailgating, social engineering at access points, abuse of valid or default credentials, and bypassing or defeating perimeter controls.",
+  "shortname": "initial-access",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/",
+    "references": [],
+    "mitre_id": "TA0001"
+  }
+}

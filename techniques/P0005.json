@@ -1,0 +1,23 @@
+{
+  "id": "P0005",
+  "name": "Develop Pretext",
+  "description": "Adversaries may develop a cover story and supporting materials to justify their presence during physical operations. Pretext development aligns appearance, behavior, and artifacts with roles that are plausible at the target facility.",
+  "shortname": "develop-pretext",
+  "tactics": [
+    "PT0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0002/P0005/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

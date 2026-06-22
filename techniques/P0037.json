@@ -1,0 +1,23 @@
+{
+  "id": "P0037",
+  "name": "Distraction",
+  "description": "Adversaries may create confusion or competing incidents to disrupt normal operations or mask other impact activities. Distraction as an objective can delay detection of sabotage or theft, overwhelm staff response, or shift attention away from the adversary's primary goal.",
+  "shortname": "distraction",
+  "tactics": [
+    "PT0012"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0012/P0037/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

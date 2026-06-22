@@ -1,0 +1,21 @@
+{
+  "id": "PM0004",
+  "name": "Anti-Passback Controls",
+  "description": "Configure access control systems to enforce anti-passback and prevent credential reuse for sequential entries without an exit read.",
+  "shortname": "anti-passback-controls",
+  "techniques": [
+    "P0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0004/"
+  },
+  "assets": [
+    "PA0002"
+  ]
+}

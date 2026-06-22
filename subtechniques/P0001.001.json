@@ -1,0 +1,16 @@
+{
+  "id": "P0001.001",
+  "name": "Facility Plans",
+  "description": "Adversaries may obtain floor plans, evacuation routes, door schedules, and other facility documentation through open sources, social engineering, or theft to understand layout and access paths.",
+  "shortname": "facility-plans",
+  "technique": "P0001",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0001/P0001/P0001.001/",
+    "references": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "P0027",
+  "name": "Steal Hardware",
+  "description": "Adversaries may remove physical computing or storage hardware from the target environment. Stolen hardware can contain data, credentials, or configuration information useful for follow-on access and analysis.",
+  "shortname": "steal-hardware",
+  "tactics": [
+    "PT0010"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0010/P0027/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0016"
+    ],
+    "detections": []
+  }
+}

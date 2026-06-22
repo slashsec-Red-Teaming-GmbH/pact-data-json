@@ -1,0 +1,16 @@
+{
+  "id": "P0018.002",
+  "name": "Use Elevator",
+  "description": "Adversaries may use passenger or freight elevators to reach other floors, including riding with authorized personnel or using credentials, keys, or elevator codes scoped beyond their intended area.",
+  "shortname": "use-elevator",
+  "technique": "P0018",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/P0018/P0018.002/",
+    "references": []
+  }
+}

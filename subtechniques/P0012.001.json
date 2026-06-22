@@ -1,0 +1,16 @@
+{
+  "id": "P0012.001",
+  "name": "Replace Lock",
+  "description": "Adversaries may swap or rekey locks so that only they retain working keys while the original hardware remains in place. Replaced locks can preserve the appearance of normal access control while enabling covert re-entry.",
+  "shortname": "replace-lock",
+  "technique": "P0012",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0004/P0012/P0012.001/",
+    "references": []
+  }
+}

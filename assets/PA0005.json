@@ -1,0 +1,23 @@
+{
+  "id": "PA0005",
+  "name": "Visitor Management Log",
+  "description": "Visitor sign-in, sign-out, badge issuance, and escort assignment records.",
+  "shortname": "visitor-management-log",
+  "data_source": "Visitor Management",
+  "mitigations": [
+    "PM0002",
+    "PM0023"
+  ],
+  "detections": [
+    "PET0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0005/"
+  }
+}

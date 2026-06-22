@@ -1,0 +1,22 @@
+{
+  "id": "PM0014",
+  "name": "Guard Force and Alarm Response",
+  "description": "Define alarm response playbooks, guard post orders, and escalation paths so false alarms and diversions are investigated without leaving other areas unmonitored.",
+  "shortname": "guard-force-alarm-response",
+  "techniques": [
+    "P0026"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0014/"
+  },
+  "assets": [
+    "PA0004",
+    "PA0010"
+  ]
+}

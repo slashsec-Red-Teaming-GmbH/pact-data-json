@@ -1,0 +1,16 @@
+{
+  "id": "P0001.002",
+  "name": "Facility Rhythms",
+  "description": "Adversaries may study staff rhythms and patterns such as shift changes, break times, delivery schedules, and typical foot traffic to time movement and blend with normal activity.",
+  "shortname": "facility-rhythms",
+  "technique": "P0001",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0001/P0001/P0001.002/",
+    "references": []
+  }
+}

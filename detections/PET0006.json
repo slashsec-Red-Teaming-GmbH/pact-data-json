@@ -1,0 +1,21 @@
+{
+  "id": "PET0006",
+  "name": "Visitor Overstay or Sign-In Mismatch",
+  "description": "Flag visitors who remain signed in beyond expected duration or depart without matching sign-out records.",
+  "shortname": "visitor-overstay-mismatch",
+  "techniques": [
+    "P0007"
+  ],
+  "data_components": [
+    "PA0005"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0006/"
+  }
+}

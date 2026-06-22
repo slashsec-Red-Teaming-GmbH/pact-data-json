@@ -1,0 +1,20 @@
+{
+  "id": "PA0007",
+  "name": "Guard Patrol Checkpoint Log",
+  "description": "Guard tour or patrol checkpoint scans with timestamps and officer identifiers.",
+  "shortname": "guard-patrol-checkpoint-log",
+  "data_source": "Guard Services",
+  "mitigations": [
+    "PM0010"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0007/"
+  }
+}

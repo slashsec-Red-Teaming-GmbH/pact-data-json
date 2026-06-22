@@ -1,0 +1,16 @@
+{
+  "id": "P0018.001",
+  "name": "Use Stairwell",
+  "description": "Adversaries may use stairwells to change floors, including emergency stairs and tenant stairs that connect multiple levels. Stairwell doors may be propped, follow traffic, or accept credentials that differ from elevator floor selects.",
+  "shortname": "use-stairwell",
+  "technique": "P0018",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/P0018/P0018.001/",
+    "references": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "PA0003",
+  "name": "Video Management Events",
+  "description": "Camera online/offline, tamper, and field-of-view or analytics alerts from video management systems.",
+  "shortname": "video-management-events",
+  "data_source": "Video Surveillance",
+  "mitigations": [
+    "PM0013"
+  ],
+  "detections": [
+    "PET0003"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0003/"
+  }
+}

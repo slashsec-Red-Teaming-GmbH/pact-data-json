@@ -1,0 +1,16 @@
+{
+  "id": "P0007.004",
+  "name": "Employ Pretext in Conversation",
+  "description": "Adversaries may use a prepared cover story when interacting with staff, security, or reception during operations. Consistent pretext in conversation reinforces legitimacy and deflects casual questions about purpose or destination.",
+  "shortname": "employ-pretext-conversation",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.004/",
+    "references": []
+  }
+}

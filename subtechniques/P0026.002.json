@@ -1,0 +1,16 @@
+{
+  "id": "P0026.002",
+  "name": "Stage Diversion",
+  "description": "Adversaries may create non-alarm distractions such as staged disputes, medical incidents, delivery confusion, or commotion in another area. Diversion draws eyes and radios away from the adversary's actual location or route.",
+  "shortname": "stage-diversion",
+  "technique": "P0026",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/P0026/P0026.002/",
+    "references": []
+  }
+}

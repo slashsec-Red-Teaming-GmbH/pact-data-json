@@ -1,0 +1,25 @@
+{
+  "id": "P0011",
+  "name": "Establish Trust",
+  "description": "Adversaries may build rapport with staff, security, or regular occupants to reduce scrutiny and enable repeat access. Established trust supports recurring entry, escorted movement, and persistence across multiple visits.",
+  "shortname": "establish-trust",
+  "tactics": [
+    "PT0004"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0004/P0011/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0023"
+    ],
+    "detections": []
+  }
+}

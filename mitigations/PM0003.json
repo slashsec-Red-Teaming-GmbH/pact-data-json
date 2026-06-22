@@ -1,0 +1,18 @@
+{
+  "id": "PM0003",
+  "name": "Entry Challenge Procedures",
+  "description": "Require staff to challenge unknown individuals at controlled doors and turnstiles, and refuse entry when credentials or purpose cannot be verified.",
+  "shortname": "entry-challenge-procedures",
+  "techniques": [
+    "P0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0003/"
+  }
+}

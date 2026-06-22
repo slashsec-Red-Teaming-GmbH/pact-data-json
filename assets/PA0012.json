@@ -1,0 +1,20 @@
+{
+  "id": "PA0012",
+  "name": "Elevator and Stairwell Access Log",
+  "description": "Floor-level or reader events from elevator controllers and stairwell access points.",
+  "shortname": "elevator-stairwell-access-log",
+  "data_source": "Physical Access Control",
+  "mitigations": [
+    "PM0019"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0012/"
+  }
+}

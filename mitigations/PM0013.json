@@ -1,0 +1,21 @@
+{
+  "id": "PM0013",
+  "name": "Camera Coverage Review",
+  "description": "Review camera fields of view during design and operations; inspect housings for obstruction, spray, or repositioning that creates blind spots.",
+  "shortname": "camera-coverage-review",
+  "techniques": [
+    "P0025"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0013/"
+  },
+  "assets": [
+    "PA0003"
+  ]
+}

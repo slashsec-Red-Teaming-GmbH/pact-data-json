@@ -1,0 +1,16 @@
+{
+  "id": "P0016.001",
+  "name": "Skim Badge with Covert Reader",
+  "description": "Adversaries may place covert reader hardware over or adjacent to legitimate access readers to capture badge data without the holder's knowledge. Covert readers may resemble the original reader face or hide in mounting gaps and can record credentials for later cloning.",
+  "shortname": "skim-badge-covert-reader-overlay",
+  "technique": "P0016",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0006/P0016/P0016.001/",
+    "references": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P0007.001",
+  "name": "Exploit Business Process",
+  "description": "Adversaries may exploit missing, ambiguous, or unenforced business processes to gain access or avoid scrutiny. Weak processes for visitor handling, deliveries, escorts, after-hours access, and contractor workflows can be abused through pretext, policy gaps, or inconsistent enforcement.",
+  "shortname": "exploit-business-process",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.001/",
+    "references": []
+  }
+}

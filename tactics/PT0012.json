@@ -1,0 +1,16 @@
+{
+  "id": "PT0012",
+  "name": "Impact",
+  "description": "The adversary is trying to manipulate, interrupt, or destroy operations or assets.\n\nImpact consists of techniques that disrupt availability, safety, or integrity of assets and facilities. Examples include sabotage, tampering with equipment, physical damage, or actions taken to distract from or cover other objectives.",
+  "shortname": "impact",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0012/",
+    "references": [],
+    "mitre_id": "TA0040"
+  }
+}

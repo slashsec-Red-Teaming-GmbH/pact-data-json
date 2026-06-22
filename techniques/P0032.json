@@ -1,0 +1,23 @@
+{
+  "id": "P0032",
+  "name": "Exfiltrate via Emergency Route",
+  "description": "Adversaries may leave through emergency exits, fire doors, or other egress paths intended for evacuation. Emergency routes may have fewer credential checks or monitoring than primary entries during an operation.",
+  "shortname": "exfiltrate-via-emergency-route",
+  "tactics": [
+    "PT0011"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0011/P0032/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

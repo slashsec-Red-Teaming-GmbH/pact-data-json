@@ -1,0 +1,27 @@
+{
+  "id": "PXXXX",
+  "name": "Technique Name",
+  "description": "Adversaries may [behavior]. [Further detail on how this technique is used in physical operations.][^1] Use \\n for line breaks.\\n\\n[^1]: this is a footnote",
+  "shortname": "technique-name-with-dashes",
+  "tactics": [
+    "PTXXXX"
+  ],
+  "metadata": {
+    "created": "2026-01-01",
+    "modified": "2026-01-01",
+    "contributors": [
+      "your preferred name here :)"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PTXXXX/PXXXX/",
+    "references": ["https://slashsec.at", "https://pact.slashsec.at"]
+  },
+  "related": {
+    "mitigations": [
+      "PMXXXX"
+    ],
+    "detections": [
+      "PETXXXX"
+    ]
+  }
+}

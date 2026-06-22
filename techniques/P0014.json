@@ -1,0 +1,25 @@
+{
+  "id": "P0014",
+  "name": "Steal Valid Credentials",
+  "description": "Adversaries may steal physical access credentials from personnel, workspaces, or unsecured storage. Stolen badges, keys or PINs can be used immediately or retained for later entry, privilege escalation and lateral movement.",
+  "shortname": "steal-valid-credentials",
+  "tactics": [
+    "PT0006"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0006/P0014/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006"
+    ],
+    "detections": []
+  }
+}

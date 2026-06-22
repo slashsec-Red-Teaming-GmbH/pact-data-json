@@ -1,0 +1,16 @@
+{
+  "id": "P0018.003",
+  "name": "Use Exterior Access or Climbing",
+  "description": "Adversaries may use exterior building features to reach other floors or secured areas without passing interior access controls. This includes exterior emergency stairways, fire escapes, and ledges, as well as climbing or rappelling to and from upper floors, roofs, or windows that are less monitored than main entries.",
+  "shortname": "exterior-access-climbing",
+  "technique": "P0018",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/P0018/P0018.003/",
+    "references": []
+  }
+}

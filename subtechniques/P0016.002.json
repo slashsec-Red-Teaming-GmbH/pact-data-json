@@ -1,0 +1,16 @@
+{
+  "id": "P0016.002",
+  "name": "Capture Badge with Long-Range Reader",
+  "description": "Adversaries may use long-range or portable RFID/NFC readers to capture badge data from personnel at distance, through clothing, or without interaction at a controlled door.",
+  "shortname": "capture-badge-long-range-reader",
+  "technique": "P0016",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0006/P0016/P0016.002/",
+    "references": []
+  }
+}

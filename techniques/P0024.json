@@ -1,0 +1,28 @@
+{
+  "id": "P0024",
+  "name": "Disable Sensor",
+  "description": "Adversaries may deactivate, damage, or bypass physical security sensors so they no longer report events. Disabled sensors reduce detection of movement, entry, or environmental changes across the protected area.",
+  "shortname": "disable-sensor",
+  "tactics": [
+    "PT0009"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0009/P0024/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0012"
+    ],
+    "detections": [
+      "PET0003",
+      "PET0004"
+    ]
+  }
+}

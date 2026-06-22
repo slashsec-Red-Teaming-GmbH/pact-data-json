@@ -1,0 +1,32 @@
+{
+  "id": "P0007",
+  "name": "Social Engineering",
+  "description": "Adversaries may manipulate people to obtain access, information, or assistance at a target facility. This includes impersonation, authority appeals, urgency, and other influence tactics at entry points, reception areas, or during escorted movement.",
+  "shortname": "social-engineering",
+  "tactics": [
+    "PT0001",
+    "PT0003",
+    "PT0005",
+    "PT0007",
+    "PT0008"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0007/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0001",
+      "PM0002"
+    ],
+    "detections": [
+      "PET0006"
+    ]
+  }
+}

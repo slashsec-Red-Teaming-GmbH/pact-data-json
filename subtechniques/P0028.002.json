@@ -1,0 +1,16 @@
+{
+  "id": "P0028.002",
+  "name": "Photocopy Documents",
+  "description": "Adversaries may use copiers, scanners, or multifunction devices to duplicate paper records on site. Photocopying can produce full copies of binders, visitor logs, or internal memos while originals remain in place.",
+  "shortname": "photocopy-documents",
+  "technique": "P0028",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/P0028/P0028.002/",
+    "references": []
+  }
+}

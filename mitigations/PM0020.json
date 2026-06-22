@@ -1,0 +1,21 @@
+{
+  "id": "PM0020",
+  "name": "Service Corridor Access Control",
+  "description": "Limit and monitor service routes, loading docks, and utility corridors with badges, escorts, or time-bound access.",
+  "shortname": "service-corridor-access-control",
+  "techniques": [
+    "P0019"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0020/"
+  },
+  "assets": [
+    "PA0002"
+  ]
+}

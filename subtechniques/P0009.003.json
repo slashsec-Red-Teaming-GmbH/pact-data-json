@@ -1,0 +1,16 @@
+{
+  "id": "P0009.003",
+  "name": "Bypass Perimeter Controls",
+  "description": "Adversaries may bypass perimeter security controls such as fencing, gates, bollards, or vehicle barriers. Methods include cutting, climbing, lifting, wedging, or using unmanned access points along the facility boundary.",
+  "shortname": "perimeter-controls-bypass",
+  "technique": "P0009",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0009/P0009.003/",
+    "references": []
+  }
+}

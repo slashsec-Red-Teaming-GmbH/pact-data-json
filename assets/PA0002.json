@@ -1,0 +1,29 @@
+{
+  "id": "PA0002",
+  "name": "Access Control Event Log",
+  "description": "Grant, deny, forced-door, door-held-open, and anti-passback events from readers and controllers.",
+  "shortname": "access-control-event-log",
+  "data_source": "Physical Access Control",
+  "mitigations": [
+    "PM0004",
+    "PM0007",
+    "PM0011",
+    "PM0018",
+    "PM0020"
+  ],
+  "detections": [
+    "PET0002",
+    "PET0005",
+    "PET0007",
+    "PET0008"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0002/"
+  }
+}

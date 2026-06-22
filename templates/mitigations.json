@@ -1,0 +1,21 @@
+{
+  "id": "PMXXXX",
+  "name": "Mitigation Name",
+  "description": "Brief description of the control or practice that reduces risk from the linked techniques.[^1] Use \\n for line breaks.\\n\\n[^1]: this is a footnote",
+  "shortname": "mitigation-name-with-dashes",
+  "techniques": [
+    "PXXXX"
+  ],
+  "metadata": {
+    "created": "2026-01-01",
+    "modified": "2026-01-01",
+    "contributors": [
+      "your preferred name here :)"
+    ],
+    "version_permalink": "/mitigations/PMXXXX/",
+    "references": ["https://slashsec.at", "https://pact.slashsec.at"]
+  },
+  "assets": [
+    "PAXXXX"
+  ]
+}

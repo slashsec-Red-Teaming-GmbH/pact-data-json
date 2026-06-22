@@ -1,0 +1,16 @@
+{
+  "id": "P0026.001",
+  "name": "Trigger False Alarm",
+  "description": "Adversaries may intentionally cause alarm activations that are not tied to their objective, such as pulling manual stations, tripping sensors, or staging incidents. False alarms consume guard time and can desensitize staff to subsequent events.",
+  "shortname": "trigger-false-alarm",
+  "technique": "P0026",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/P0026/P0026.001/",
+    "references": []
+  }
+}

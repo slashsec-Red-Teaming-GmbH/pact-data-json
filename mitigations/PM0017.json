@@ -1,0 +1,18 @@
+{
+  "id": "PM0017",
+  "name": "Technical Surveillance Countermeasures",
+  "description": "Periodically sweep sensitive areas for covert listening devices, cameras, and unknown transmitters using TSCM practices or qualified vendors.",
+  "shortname": "technical-surveillance-countermeasures",
+  "techniques": [
+    "P0030"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0017/"
+  }
+}

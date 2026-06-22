@@ -1,0 +1,16 @@
+{
+  "id": "P0005.003",
+  "name": "Gather Pretext Uniform",
+  "description": "Adversaries may acquire clothing or uniforms that match roles expected at the facility, such as maintenance, cleaning, catering, security, or vendor attire. Uniforms increase perceived legitimacy during entry and movement.",
+  "shortname": "gather-pretext-uniform",
+  "technique": "P0005",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/P0005/P0005.003/",
+    "references": []
+  }
+}

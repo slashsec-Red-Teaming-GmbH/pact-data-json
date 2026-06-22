@@ -1,0 +1,16 @@
+{
+  "id": "P0024.001",
+  "name": "Disable Camera",
+  "description": "Adversaries may disable or blind video cameras by cutting power, disconnecting cabling, damaging housings, or using switches and breakers that remove coverage. Camera outages create gaps in visual monitoring along routes and entry points.",
+  "shortname": "disable-camera",
+  "technique": "P0024",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0009/P0024/P0024.001/",
+    "references": []
+  }
+}

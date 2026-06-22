@@ -1,0 +1,16 @@
+{
+  "id": "P0004.001",
+  "name": "Fabricate Victim Company ID",
+  "description": "Adversaries may create identification that mimics the target organization's badges, access cards, or visitor credentials. This may include copying branding, badge formats, or card technologies observed during reconnaissance.",
+  "shortname": "fabricate-victim-company-id",
+  "technique": "P0004",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/P0004/P0004.001/",
+    "references": []
+  }
+}

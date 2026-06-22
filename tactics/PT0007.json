@@ -1,0 +1,16 @@
+{
+  "id": "PT0007",
+  "name": "Lateral Movement",
+  "description": "The adversary is trying to move through the facility or campus.\n\nLateral Movement consists of techniques for crossing zones, floors, buildings, or air-gapped areas after initial entry. Examples include using internal doors, elevators, loading docks, and inter-building connectors while avoiding or defeating intermediate access controls.",
+  "shortname": "lateral-movement",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/",
+    "references": [],
+    "mitre_id": "TA0008"
+  }
+}

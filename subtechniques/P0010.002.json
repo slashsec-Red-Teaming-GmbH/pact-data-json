@@ -1,0 +1,16 @@
+{
+  "id": "P0010.002",
+  "name": "Exploit Unrestricted Opening",
+  "description": "Adversaries may exploit doors, windows, loading docks, or other openings left unlocked, propped open, or without required access controls. Unrestricted openings allow entry without defeating hardware or credentials.",
+  "shortname": "exploit-unrestricted-opening",
+  "technique": "P0010",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0010/P0010.002/",
+    "references": []
+  }
+}

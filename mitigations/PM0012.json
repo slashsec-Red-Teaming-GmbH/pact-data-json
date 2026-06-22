@@ -1,0 +1,21 @@
+{
+  "id": "PM0012",
+  "name": "Sensor Health Monitoring",
+  "description": "Monitor intrusion, motion, and alarm devices for offline, tamper, or bypass conditions and investigate anomalies promptly.",
+  "shortname": "sensor-health-monitoring",
+  "techniques": [
+    "P0024"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0012/"
+  },
+  "assets": [
+    "PA0004"
+  ]
+}

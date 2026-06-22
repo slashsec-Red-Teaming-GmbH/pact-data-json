@@ -1,0 +1,27 @@
+{
+  "id": "P0025",
+  "name": "Block Camera View",
+  "description": "Adversaries may obstruct camera fields of view without necessarily disabling the device. Blocking methods include covering lenses, repositioning cameras, introducing blind spots with objects, or using glare and lighting to reduce usable footage.",
+  "shortname": "block-camera-view",
+  "tactics": [
+    "PT0009"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0009/P0025/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0013"
+    ],
+    "detections": [
+      "PET0003"
+    ]
+  }
+}

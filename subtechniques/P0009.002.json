@@ -1,0 +1,16 @@
+{
+  "id": "P0009.002",
+  "name": "Bypass Door",
+  "description": "Adversaries may bypass door-based access controls to enter restricted areas. This includes lock picking, shimming, forcing doors, removing hinge pins, or exploiting gaps in door hardware (for example, under-the-door tools).",
+  "shortname": "door-bypass",
+  "technique": "P0009",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0009/P0009.002/",
+    "references": []
+  }
+}

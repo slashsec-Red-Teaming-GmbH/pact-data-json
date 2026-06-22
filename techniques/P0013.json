@@ -1,0 +1,28 @@
+{
+  "id": "P0013",
+  "name": "Hide on Premises",
+  "description": "Adversaries may conceal themselves within a facility or controlled area to avoid detection between operating periods. Hiding locations include unused spaces, storage areas, ceilings, and other low-traffic zones that support extended presence.",
+  "shortname": "hide-on-premises",
+  "tactics": [
+    "PT0004",
+    "PT0008"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0004/P0013/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0010"
+    ],
+    "detections": [
+      "PET0010"
+    ]
+  }
+}

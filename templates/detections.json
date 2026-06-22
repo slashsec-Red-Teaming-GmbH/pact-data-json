@@ -1,0 +1,21 @@
+{
+  "id": "PETXXXX",
+  "name": "Detection Name",
+  "description": "What to monitor or review, and what condition may indicate the linked technique.[^1] Use \\n for line breaks.\\n\\n[^1]: this is a footnote",
+  "shortname": "detection-name-with-dashes",
+  "techniques": [
+    "PXXXX"
+  ],
+  "data_components": [
+    "PAXXXX"
+  ],
+  "metadata": {
+    "created": "2026-01-01",
+    "modified": "2026-01-01",
+    "contributors": [
+      "your preferred name here :)"
+    ],
+    "version_permalink": "/detections/PETXXXX/",
+    "references": ["https://slashsec.at", "https://pact.slashsec.at"]
+  }
+}

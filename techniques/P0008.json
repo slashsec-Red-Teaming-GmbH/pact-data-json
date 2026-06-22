@@ -1,0 +1,27 @@
+{
+  "id": "P0008",
+  "name": "Valid Credentials",
+  "description": "Adversaries may use legitimate or previously valid credentials to enter controlled areas. This includes badges, keys, PINs, biometric enrollments, or access cards obtained through theft, sharing, cloning, or insider assistance.",
+  "shortname": "valid-credentials",
+  "tactics": [
+    "PT0003",
+    "PT0004",
+    "PT0005"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0008/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006"
+    ],
+    "detections": []
+  }
+}

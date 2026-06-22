@@ -1,0 +1,25 @@
+{
+  "id": "P0021",
+  "name": "Select Low-Visibility Route",
+  "description": "Adversaries may choose paths that minimize exposure to guards, reception desks, cameras, and high-visibility lobbies. Route selection favors service corridors, stairwells, loading areas, and times when fewer people observe transit between objectives.",
+  "shortname": "select-low-visibility-route",
+  "tactics": [
+    "PT0008"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0008/P0021/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0010"
+    ],
+    "detections": []
+  }
+}

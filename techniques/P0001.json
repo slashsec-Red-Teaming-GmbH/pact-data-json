@@ -1,0 +1,25 @@
+{
+  "id": "P0001",
+  "name": "Gather Victim Facility Information",
+  "description": "Adversaries may gather information about the target facility to plan entry, movement, and collection. This includes building layout, access controls, occupancy patterns, and security-relevant infrastructure.",
+  "shortname": "gather-victim-facility-information",
+  "tactics": [
+    "PT0001"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0001/P0001/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0022"
+    ],
+    "detections": []
+  }
+}

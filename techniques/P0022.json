@@ -1,0 +1,27 @@
+{
+  "id": "P0022",
+  "name": "Activity Timing",
+  "description": "Adversaries may schedule entry, movement, or actions for specific times that improve success or reduce scrutiny. Timing can align with busy periods that provide cover or with quiet periods when fewer people are present.",
+  "shortname": "time-activity",
+  "tactics": [
+    "PT0008"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0008/P0022/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0011"
+    ],
+    "detections": [
+      "PET0007"
+    ]
+  }
+}

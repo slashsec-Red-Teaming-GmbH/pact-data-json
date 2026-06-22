@@ -1,0 +1,16 @@
+{
+  "id": "P0010.003",
+  "name": "Exploit Request-to-Exit Sensor",
+  "description": "Adversaries may exploit request-to-exit sensors that unlock doors from the secure side without credential validation. Triggering motion detectors, pressure mats, or push plates from outside the controlled area can unlock secured doors without valid credentials.",
+  "shortname": "exploit-request-to-exit-sensor",
+  "technique": "P0010",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0010/P0010.003/",
+    "references": []
+  }
+}

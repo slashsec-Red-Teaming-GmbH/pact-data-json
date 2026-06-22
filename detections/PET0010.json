@@ -1,0 +1,23 @@
+{
+  "id": "PET0010",
+  "name": "Unexpected Intrusion Sensor Alert",
+  "description": "Correlate zone alarm activations on intrusion panels with access control and video to identify unauthorized movement in protected areas.",
+  "shortname": "unexpected-intrusion-sensor-alert",
+  "techniques": [
+    "P0013",
+    "P0017",
+    "P0019"
+  ],
+  "data_components": [
+    "PA0004"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0010/"
+  }
+}

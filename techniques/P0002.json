@@ -1,0 +1,25 @@
+{
+  "id": "P0002",
+  "name": "Surveillance",
+  "description": "Adversaries may observe facilities, people, and security routines to collect information for planning. Surveillance may occur on site or remotely using open sources, cameras, or other collection methods.",
+  "shortname": "surveillance",
+  "tactics": [
+    "PT0001"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0001/P0002/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0022"
+    ],
+    "detections": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P0027.003",
+  "name": "Steal Server Hardware",
+  "description": "Adversaries may remove servers, NAS appliances, or other rack-mounted or closet storage systems when physical access permits. Server hardware theft can provide drives, memory, and configuration labels tied to the target environment.",
+  "shortname": "steal-server-hardware",
+  "technique": "P0027",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/P0027/P0027.003/",
+    "references": []
+  }
+}

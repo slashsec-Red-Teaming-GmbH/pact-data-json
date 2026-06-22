@@ -1,0 +1,25 @@
+{
+  "id": "PA0004",
+  "name": "Intrusion Alarm Events",
+  "description": "Sensor fault, bypass, tamper, and zone alarm events from intrusion detection panels.",
+  "shortname": "intrusion-alarm-events",
+  "data_source": "Intrusion Detection",
+  "mitigations": [
+    "PM0012",
+    "PM0014"
+  ],
+  "detections": [
+    "PET0004",
+    "PET0009",
+    "PET0010"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0004/"
+  }
+}

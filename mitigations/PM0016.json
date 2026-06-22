@@ -1,0 +1,21 @@
+{
+  "id": "PM0016",
+  "name": "IT Asset Inventory Control",
+  "description": "Track laptops, removable media, and portable servers; secure storage areas and investigate missing equipment.",
+  "shortname": "it-asset-inventory-control",
+  "techniques": [
+    "P0027"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0016/"
+  },
+  "assets": [
+    "PA0011"
+  ]
+}

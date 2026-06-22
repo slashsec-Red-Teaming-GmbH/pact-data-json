@@ -1,0 +1,16 @@
+{
+  "id": "P0007.003",
+  "name": "Pose as Visitor or Guest",
+  "description": "Adversaries may act as visitors, interview candidates, guests, or event attendees to blend with normal foot traffic. Visitor pretexts often face lighter challenge at reception when appearance and behavior match expected patterns.",
+  "shortname": "pose-visitor-guest",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.003/",
+    "references": []
+  }
+}

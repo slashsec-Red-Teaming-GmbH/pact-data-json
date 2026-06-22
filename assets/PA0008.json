@@ -1,0 +1,20 @@
+{
+  "id": "PA0008",
+  "name": "Perimeter Inspection Record",
+  "description": "Documented perimeter walks and opening checks noting propped doors, unsecured windows, and sensor status.",
+  "shortname": "perimeter-inspection-record",
+  "data_source": "Security Operations",
+  "mitigations": [
+    "PM0010"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0008/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "P0038",
+  "name": "Manipulate Electronic Access Control",
+  "description": "Adversaries may tamper with electronic access hardware such as card readers, PIN pads, and electronic locks, or related wiring and controllers, to bypass, spoof, capture credentials, or hold access in an open state. Manipulated controls can enable initial entry, credential theft, movement between zones, or covert re-entry without valid credentials while appearing operational.",
+  "shortname": "manipulate-electronic-access-control",
+  "tactics": [
+    "PT0003",
+    "PT0004",
+    "PT0006",
+    "PT0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0038/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006",
+      "PM0007",
+      "PM0008"
+    ],
+    "detections": [
+      "PET0002",
+      "PET0005"
+    ]
+  }
+}

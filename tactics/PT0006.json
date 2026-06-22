@@ -1,0 +1,16 @@
+{
+  "id": "PT0006",
+  "name": "Credential Access",
+  "description": "The adversary is trying to steal or duplicate physical access credentials.\n\nCredential Access consists of techniques for obtaining badges, keys, PINs, biometrics, or other tokens used to authenticate at doors and checkpoints. Captured credentials often enable Initial Access, Privilege Escalation, and Lateral Movement.",
+  "shortname": "credential-access",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0006/",
+    "references": [],
+    "mitre_id": "TA0006"
+  }
+}

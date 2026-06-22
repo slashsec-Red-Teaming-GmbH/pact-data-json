@@ -1,0 +1,16 @@
+{
+  "id": "P0007.002",
+  "name": "Impersonate Staff or Vendor",
+  "description": "Adversaries may present themselves as employees, contractors, or vendor personnel to appear legitimate during entry and movement. Impersonation pairs with dress, tools, and behavior expected for the claimed role.",
+  "shortname": "impersonate-staff-vendor",
+  "technique": "P0007",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0003/P0007/P0007.002/",
+    "references": []
+  }
+}

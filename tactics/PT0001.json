@@ -1,0 +1,16 @@
+{
+  "id": "PT0001",
+  "name": "Reconnaissance",
+  "description": "The adversary is trying to gather information they can use to plan entry, movement, and operations.\n\nReconnaissance consists of techniques for observing facilities, people, and security routines before and during an engagement. This includes site surveillance, open-source research, mapping layouts, identifying cameras and alarm sensors, and learning guard patterns, entry points, and visitor procedures that support later tactics.",
+  "shortname": "reconnaissance",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0001/",
+    "references": [],
+    "mitre_id": "TA0043"
+  }
+}

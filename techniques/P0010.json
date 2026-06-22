@@ -1,0 +1,29 @@
+{
+  "id": "P0010",
+  "name": "Exploit Physical Access Weaknesses",
+  "description": "Adversaries may take advantage of misconfigurations, poor maintenance, or unintended gaps in physical security. Exploitation targets weaknesses such as unsecured perimeter controls or openings left unrestricted.",
+  "shortname": "exploit-physical-access-weaknesses",
+  "tactics": [
+    "PT0003",
+    "PT0007",
+    "PT0011"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0003/P0010/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0010"
+    ],
+    "detections": [
+      "PET0002"
+    ]
+  }
+}

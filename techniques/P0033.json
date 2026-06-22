@@ -1,0 +1,23 @@
+{
+  "id": "P0033",
+  "name": "Exfiltrate via Alternative Route",
+  "description": "Adversaries may exit through paths other than the primary entry or designated emergency egress, such as loading docks, service doors, utility tunnels, or perimeter gaps. Alternative routes can avoid checkpoints where the adversary would be challenged on departure.",
+  "shortname": "exfiltrate-via-alternative-route",
+  "tactics": [
+    "PT0011"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0011/P0033/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

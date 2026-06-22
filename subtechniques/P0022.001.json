@@ -1,0 +1,16 @@
+{
+  "id": "P0022.001",
+  "name": "Time Activity to Normal Operations",
+  "description": "Adversaries may schedule movement and actions to coincide with routine facility activity. Examples include shift changes, meal periods, delivery windows, and peak visitor traffic when additional people reduce individual scrutiny.",
+  "shortname": "time-activity-normal-operations",
+  "technique": "P0022",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0008/P0022/P0022.001/",
+    "references": []
+  }
+}

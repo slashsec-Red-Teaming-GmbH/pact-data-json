@@ -1,0 +1,16 @@
+{
+  "id": "PT0002",
+  "name": "Resource Development",
+  "description": "The adversary is trying to establish resources they can use to support physical operations.\n\nResource Development consists of techniques for obtaining or fabricating items used during an engagement, such as uniforms, badges, pretext materials, tools, vehicles, or copied credentials. These resources support Initial Access, Stealth, and other phases of a physical intrusion.",
+  "shortname": "resource-development",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/",
+    "references": [],
+    "mitre_id": "TA0042"
+  }
+}

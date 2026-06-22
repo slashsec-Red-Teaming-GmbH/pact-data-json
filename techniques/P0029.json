@@ -1,0 +1,25 @@
+{
+  "id": "P0029",
+  "name": "Steal Information",
+  "description": "Adversaries may remove physical documents, files, or other recorded information from the target environment. Stolen materials can include paper records, binders, mail, and other portable information carriers taken from offices or secure storage.",
+  "shortname": "steal-information",
+  "tactics": [
+    "PT0010"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0010/P0029/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0015"
+    ],
+    "detections": []
+  }
+}

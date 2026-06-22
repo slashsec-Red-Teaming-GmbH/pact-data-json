@@ -1,0 +1,19 @@
+{
+  "id": "PM0001",
+  "name": "User Training",
+  "description": "Train personnel to recognize tailgating, impersonation, and pretext attempts at entry points and in common areas.",
+  "shortname": "user-training",
+  "techniques": [
+    "P0006",
+    "P0007"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0001/"
+  }
+}

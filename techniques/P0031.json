@@ -1,0 +1,23 @@
+{
+  "id": "P0031",
+  "name": "Exfiltrate via Entry Route",
+  "description": "Adversaries may exit through the same controlled entry points used for access, such as main doors, turnstiles, or visitor checkpoints. Departing via the entry route preserves cover when the adversary still appears authorized or follows normal egress flow.",
+  "shortname": "exfiltrate-via-entry-route",
+  "tactics": [
+    "PT0011"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0011/P0031/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

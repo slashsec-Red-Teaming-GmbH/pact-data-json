@@ -1,0 +1,21 @@
+{
+  "id": "PA0006",
+  "name": "Credential Issuance and Revocation Log",
+  "description": "Records of badge, key, and PIN issuance, modification, and revocation from access control administration.",
+  "shortname": "credential-issuance-revocation-log",
+  "data_source": "Physical Access Control",
+  "mitigations": [
+    "PM0006",
+    "PM0023"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0006/"
+  }
+}

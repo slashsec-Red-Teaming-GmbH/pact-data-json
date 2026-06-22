@@ -1,0 +1,20 @@
+{
+  "id": "PM0015",
+  "name": "Document and Clean Desk Policy",
+  "description": "Require securing sensitive paper and media when unattended; limit unattended access to copy rooms and restrict removal of documents without authorization.",
+  "shortname": "document-clean-desk-policy",
+  "techniques": [
+    "P0028",
+    "P0029",
+    "P0039"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0015/"
+  }
+}

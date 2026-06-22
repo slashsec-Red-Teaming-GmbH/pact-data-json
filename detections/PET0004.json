@@ -1,0 +1,21 @@
+{
+  "id": "PET0004",
+  "name": "Intrusion Sensor Fault or Tamper",
+  "description": "Investigate sensor trouble, bypass, or tamper indicators that precede or coincide with movement in protected areas.",
+  "shortname": "intrusion-sensor-fault-tamper",
+  "techniques": [
+    "P0024"
+  ],
+  "data_components": [
+    "PA0004"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0004/"
+  }
+}

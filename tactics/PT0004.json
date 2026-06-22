@@ -1,0 +1,16 @@
+{
+  "id": "PT0004",
+  "name": "Persistence",
+  "description": "The adversary is trying to maintain their presence or ability to re-enter.\n\nPersistence consists of techniques that keep access available across visits or extended time on site. Examples include hiding on premises, planting devices, retaining cloned badges or keys, and establishing recurring entry using compromised trust or credentials.",
+  "shortname": "persistence",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0004/",
+    "references": [],
+    "mitre_id": "TA0003"
+  }
+}

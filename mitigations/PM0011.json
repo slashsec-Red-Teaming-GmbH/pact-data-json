@@ -1,0 +1,21 @@
+{
+  "id": "PM0011",
+  "name": "After-Hours Access Procedures",
+  "description": "Restrict and log after-hours entry; require approval, escorts, or additional verification when facilities are closed or lightly staffed.",
+  "shortname": "after-hours-access-procedures",
+  "techniques": [
+    "P0022"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0011/"
+  },
+  "assets": [
+    "PA0002"
+  ]
+}

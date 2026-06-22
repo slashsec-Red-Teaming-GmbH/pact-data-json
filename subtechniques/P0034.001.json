@@ -1,0 +1,16 @@
+{
+  "id": "P0034.001",
+  "name": "Industry Espionage",
+  "description": "Adversaries may conduct espionage to benefit a commercial competitor or private interest. Industry espionage targets trade secrets, product plans, customer lists, pricing, and proprietary processes that provide market advantage.",
+  "shortname": "industry-espionage",
+  "technique": "P0034",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0012/P0034/P0034.001/",
+    "references": []
+  }
+}

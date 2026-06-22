@@ -1,0 +1,22 @@
+{
+  "id": "PET0008",
+  "name": "Access Outside Authorized Zone",
+  "description": "Detect badge use at readers or zones not assigned to the credential holder's role or visit scope.",
+  "shortname": "access-outside-authorized-zone",
+  "techniques": [
+    "P0017",
+    "P0019"
+  ],
+  "data_components": [
+    "PA0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0008/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "P0036",
+  "name": "Theft",
+  "description": "Adversaries may steal property or assets as a primary outcome of the operation, beyond information collection alone. Theft can target equipment, materials, inventory, or other valuables that impose direct loss on the victim organization.",
+  "shortname": "theft",
+  "tactics": [
+    "PT0012"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0012/P0036/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

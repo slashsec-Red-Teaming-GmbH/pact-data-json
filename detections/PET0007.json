@@ -1,0 +1,21 @@
+{
+  "id": "PET0007",
+  "name": "After-Hours Access Event",
+  "description": "Review access grants outside defined business hours against approved work orders or escort requirements.",
+  "shortname": "after-hours-access-event",
+  "techniques": [
+    "P0022"
+  ],
+  "data_components": [
+    "PA0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0007/"
+  }
+}

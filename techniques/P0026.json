@@ -1,0 +1,27 @@
+{
+  "id": "P0026",
+  "name": "Employ Distraction",
+  "description": "Adversaries may create events that draw guard or staff attention away from their activity. Distractions degrade effective monitoring and response by flooding defenders with false or competing priorities.",
+  "shortname": "employ-distraction",
+  "tactics": [
+    "PT0009"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0009/P0026/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0014"
+    ],
+    "detections": [
+      "PET0009"
+    ]
+  }
+}

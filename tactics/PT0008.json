@@ -1,0 +1,16 @@
+{
+  "id": "PT0008",
+  "name": "Stealth",
+  "description": "The adversary is trying to hide their activity and appear legitimate.\n\nStealth consists of techniques that reduce the chance of detection by blending with normal traffic, staff behavior, or visitor activity. Examples include appropriate dress, timing, pretext, and route selection without disabling security systems.",
+  "shortname": "stealth",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0008/",
+    "references": [],
+    "mitre_id": "TA0005"
+  }
+}

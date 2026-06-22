@@ -1,0 +1,16 @@
+{
+  "id": "P0028.001",
+  "name": "Photograph Information",
+  "description": "Adversaries may capture images of documents, whiteboards, posted schedules, screen displays, or labels using phones or cameras. Photography allows quick collection without removing originals from the facility.",
+  "shortname": "photograph-information",
+  "technique": "P0028",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0010/P0028/P0028.001/",
+    "references": []
+  }
+}

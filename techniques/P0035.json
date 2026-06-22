@@ -1,0 +1,23 @@
+{
+  "id": "P0035",
+  "name": "Sabotage",
+  "description": "Adversaries may deliberately damage, disable, or interfere with equipment, utilities, or processes to disrupt operations. Sabotage can target production systems, safety controls, infrastructure, or assets needed for normal facility function.",
+  "shortname": "sabotage",
+  "tactics": [
+    "PT0012"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0012/P0035/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [],
+    "detections": []
+  }
+}

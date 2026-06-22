@@ -1,0 +1,16 @@
+{
+  "id": "P0022.002",
+  "name": "Time Activity Outside Regular Business Hours",
+  "description": "Adversaries may schedule entry or movement outside regular business hours, such as nights, weekends, or holidays when facilities are closed or lightly staffed. Operating off-hours can reduce encounters with personnel while exploiting gaps in patrols, escorts, or visitor controls.",
+  "shortname": "time-activity-outside-regular-business-hours",
+  "technique": "P0022",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0008/P0022/P0022.002/",
+    "references": []
+  }
+}

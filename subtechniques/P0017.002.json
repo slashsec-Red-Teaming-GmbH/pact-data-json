@@ -1,0 +1,16 @@
+{
+  "id": "P0017.002",
+  "name": "Cross Zone via Inter-Building Connector",
+  "description": "Adversaries may move between buildings or structures using skybridges, underground tunnels, shared atria, or campus connectors. Inter-building paths can bypass perimeter controls applied at each building's main entry.",
+  "shortname": "cross-zone-inter-building",
+  "technique": "P0017",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0007/P0017/P0017.002/",
+    "references": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P0002.001",
+  "name": "On-site Surveillance",
+  "description": "Adversaries may conduct surveillance from public or authorized vantage points near the facility, including fixed observation, walk-by reconnaissance, and repeated visits to establish patterns.",
+  "shortname": "on-site-surveillance",
+  "technique": "P0002",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0001/P0002/P0002.001/",
+    "references": []
+  }
+}

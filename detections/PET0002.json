@@ -1,0 +1,22 @@
+{
+  "id": "PET0002",
+  "name": "Forced or Held-Open Door",
+  "description": "Alert on forced-door or extended hold-open conditions at controlled perimeter openings.",
+  "shortname": "forced-held-open-door",
+  "techniques": [
+    "P0010",
+    "P0038"
+  ],
+  "data_components": [
+    "PA0002"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/detections/PET0002/"
+  }
+}

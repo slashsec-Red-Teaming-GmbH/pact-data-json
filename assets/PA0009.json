@@ -1,0 +1,20 @@
+{
+  "id": "PA0009",
+  "name": "Physical Security Maintenance Record",
+  "description": "Work orders and completion records for locks, doors, readers, barriers, and related hardware servicing.",
+  "shortname": "physical-security-maintenance-record",
+  "data_source": "Facilities Maintenance",
+  "mitigations": [
+    "PM0008"
+  ],
+  "detections": [],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/assets/PA0009/"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "PM0019",
+  "name": "Vertical Access Controls",
+  "description": "Control stairwell and elevator access by floor or role; monitor or lock floors that do not require general staff traffic.",
+  "shortname": "vertical-access-controls",
+  "techniques": [
+    "P0018"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "references": [],
+    "version_permalink": "/mitigations/PM0019/"
+  },
+  "assets": [
+    "PA0012"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "PTXXXX",
+  "name": "Tactic Name",
+  "description": "The adversary is trying to [goal].\\n\\n[Second paragraph: what this tactic consists of, with examples.][^1]\\n\\n[^1]: this is a footnote",
+  "shortname": "tactic-name-with-dashes",
+  "metadata": {
+    "created": "2026-01-01",
+    "modified": "2026-01-01",
+    "contributors": [
+      "your preferred name here :)"
+    ],
+    "version_permalink": "/ttps/PTXXXX/",
+    "references": ["https://slashsec.at", "https://pact.slashsec.at"]
+  }
+}

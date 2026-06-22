@@ -1,0 +1,21 @@
+{
+  "id": "PET0001",
+  "name": "Tailgating at Mantrap",
+  "description": "Monitor mantrap logs and video for two persons entering on a single badge read.",
+  "shortname": "tailgating-mantrap",
+  "techniques": [
+    "P0006"
+  ],
+  "data_components": [
+    "PA0001"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/detections/PET0001/",
+    "references": []
+  }
+}

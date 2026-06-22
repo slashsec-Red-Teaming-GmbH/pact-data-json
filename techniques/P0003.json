@@ -1,0 +1,25 @@
+{
+  "id": "P0003",
+  "name": "Gather Victim Facility Perimeter",
+  "description": "Adversaries may observe and map the physical perimeter of a target facility to understand boundaries, access points, and external security controls. This includes fencing, walls, gates, vehicle barriers, lighting, cameras along the perimeter, patrol routes, and adjacent property lines that affect approach or escape.",
+  "shortname": "facility-perimeter",
+  "tactics": [
+    "PT0001"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0001/P0003/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0022"
+    ],
+    "detections": []
+  }
+}

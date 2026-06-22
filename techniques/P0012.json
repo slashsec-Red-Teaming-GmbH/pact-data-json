@@ -1,0 +1,26 @@
+{
+  "id": "P0012",
+  "name": "Manipulate Physical Access Controls",
+  "description": "Adversaries may alter physical access control hardware to maintain covert entry or exit paths. Manipulation can leave controls appearing normal while allowing unauthorized access on demand.",
+  "shortname": "manipulate-physical-access-controls",
+  "tactics": [
+    "PT0004"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version": "1.0",
+    "version_permalink": "/ttps/PT0004/P0012/",
+    "references": []
+  },
+  "related": {
+    "mitigations": [
+      "PM0006",
+      "PM0008"
+    ],
+    "detections": []
+  }
+}

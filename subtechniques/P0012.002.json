@@ -1,0 +1,16 @@
+{
+  "id": "P0012.002",
+  "name": "Disable Latch",
+  "description": "Adversaries may disable door latches, strike plates, or similar mechanisms so doors can be opened without normal authorization. Disabled latches may allow quiet re-entry while appearing closed from a distance.",
+  "shortname": "disable-latch",
+  "technique": "P0012",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0004/P0012/P0012.002/",
+    "references": []
+  }
+}

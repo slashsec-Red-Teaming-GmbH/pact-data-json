@@ -1,0 +1,22 @@
+{
+  "id": "PA0001",
+  "name": "Mantrap Access Log",
+  "description": "Badge reader events and door state transitions from physical access control systems.",
+  "shortname": "mantrap-access-log",
+  "data_source": "Physical Access Control",
+  "mitigations": [
+    "PM0005"
+  ],
+  "detections": [
+    "PET0001"
+  ],
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/assets/PA0001/",
+    "references": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P0005.002",
+  "name": "Gather Pretext Props",
+  "description": "Adversaries may obtain or assemble props that reinforce their cover story, such as clipboards, work orders, tool kits, delivery manifests, or branded materials associated with their claimed role.",
+  "shortname": "gather-pretext-props",
+  "technique": "P0005",
+  "metadata": {
+    "created": "2026-06-22",
+    "modified": "2026-06-22",
+    "contributors": [
+      "slashsec"
+    ],
+    "version_permalink": "/ttps/PT0002/P0005/P0005.002/",
+    "references": []
+  }
+}
