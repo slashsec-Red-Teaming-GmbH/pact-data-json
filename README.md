@@ -1,6 +1,6 @@
 # PACT Dataset
 
-This repository contains the source dataset used to generate the PACT website as seen at [pact.slashsec.at](https://pact.slashsec.at) and the corresponding [STIX 2.0 Dataset](https://github.com/slashsec-Red-Teaming-GmbH/pact-data-stix). The dataset is completely based on JSON, enabling easy editing as well as automation.
+This repository contains the source dataset used to generate the PACT website as seen at [pactmatrix.com](https://pactmatrix.com) and the corresponding [STIX 2.0 Dataset](https://github.com/slashsec-Red-Teaming-GmbH/pact-data-stix). The dataset is completely based on JSON, enabling easy editing as well as automation.
 
 ## Reporting Issues
 
